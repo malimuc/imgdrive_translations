@@ -1,0 +1,227 @@
+[INFO]
+Language=Slovenščina
+LanguageID=$0424
+Version=1.6.0
+Author=malimuc
+
+[DIALOG_1]
+0=Splošno
+3=&Jezik:
+4=&Zaženi ImgDrive skupaj s Windowsi
+5=&Samodejno naloži zadnjo sliko
+6=&Samodejno preverjaj posodobitve
+7=Spremeni ImgDrive pogon &ikono
+8=Prikaži ImgDrive v sistemu &poskusi
+9=&Skrij nedelujoč pogon
+10=<a>Prevod na GitHubu</a>
+11=Prevajalec: 
+
+[DIALOG_2]
+0=Vključi
+3=&Uporabi izluščeno razširitev
+4=Združi:
+5=<a>Izberi vse</a>
+
+[DIALOG_3]
+0=Dopolni
+2=&Ustavi
+3=Znova ustvari iskalno tabelo za: %s.\nTo lahko traja več kot 20 sekund, počakajte trenutek.
+4=%.1f%% Pretečen čas: %d s
+
+[DIALOG_4]
+0=Spremeni pogon %C
+1=V redu
+2=Ustavi
+3=&Novo pogonsko okno:
+
+[DIALOG_5]
+0=Vpis
+1=V redu
+2=Ustavi
+3=Vnesite vašega imena in gesla za server: "%s".
+4=&Uporabnik:
+5=&Geslo:
+6=&Zapomni si priporočila
+
+[DIALOG_6]
+0=Slika pogona
+1=Pošlji
+2=Ustavi
+3=ImgDrive ne more  zagnati datoteke: %s\n\nObvestite nas o napaki, da odpravimo težavo in izboljšamo programsko opremo.
+
+[DIALOG_7]
+0=O ImgDrivu
+1=V redu
+3=Doniraj
+
+[DIALOG_8]
+0=Beleženje
+3=Beleži pot mape:
+4=Odpri beleženo mapo
+
+[DIALOG_9]
+0=Ustvari ISO sliko
+1=&Začni
+2=Zapri
+3=Da ustvarite slikovno datoteko ISO, izberite ali povlecite mapo.
+4=Mapa:
+5=Ciljna datoteka:
+6=UDF 2.50
+
+[DIALOG_10]
+0=Kopiraj Disk
+1=&Začni
+2=Zapri
+3=Pogon:
+4=Ciljna datoteka:
+5=Po končanem delu, ugasni računalnik
+
+[DIALOG_11]
+0=Splošno
+3=Prodajalec:
+4=Model:
+5=Verzija programske opreme:
+6=Datum programske opreme:
+7=Serijska številka:
+8=Velikost medpomnilnika:
+9=Regijska koda:
+10=Regijska kontrola:
+11=Spremembe uporabnika:
+12=Ponastavi:
+
+[DIALOG_12]
+0=Lastnosti
+3=Preberi
+4=Zapiši
+5=Ostalo
+
+[DIALOG_13]
+0=Medij
+
+[DIALOG_14]
+0=Raziskovalec
+
+[DIALOG_15]
+0=Pregledovalnik sektorjev
+3=LBA:
+
+[DIALOG_16]
+0=Registracija
+1=Vpis
+2=Izpis
+3=Pomoč
+4=V spodnje polje prilepite ključ.
+
+[DIALOG_50]
+0=Nadgradnja
+3=Na razpolago je nova verzija %s!
+4=%s %s je zdaj na voljo - imate%s. Jo želite prenesti?
+5=Opombe:
+6=Preskoči to različico
+7=Opomni me kasneje
+8=Namesti posodobitev
+9=Prenašanje - %s od %s
+10=V prihodnje samodejno prenesi in namesti posodobitve
+11=Uporabljate zadnjo različico!\n\n%s %s uporabljate najnovejšo različico.
+12=Napaka posodobitve!\n\nPri posodobitvi je prišlo do napake.\nZnova poskusite kasneje.
+13=Napaka posodobitve!\n\nMed prenosom datoteke, je prišlo do napake.\nZnova poskusite kasneje.
+
+[DIALOG_51]
+0=Poročilo o napaki
+1=Pošljite napako
+3=%s je prenehal delovati.
+4=Pošljite nam poročilo, da nam pomagate izboljšati izdelek. Vse informacije se obravnavajo 
+kot zaupne in se uporabljajo samo za izboljšanje prihodnjih različic tega programa.
+5=<a>Podroben pregled poročila</a>
+
+[DIALOG_52]
+0=Povratne informacije
+1=Pošlji
+2=Zapri
+3=Elektronski naslov (ni obvezujoče)
+4=Kaj želite izvedeti?
+5=Napačen elektronski naslov
+6=Vsebina povratne informacije mora vsebovati vsaj 10 znakov
+
+[STRING]
+0=&Montiraj
+1=&Odmontiraj
+2=Montiraj v &%C:
+3=Montiraj v  &%C: - %s
+4=Pogon &%C:
+5=Pogon &%C: - %s
+6=Vse slikovne datoteke (*.ccd;*.cue;*.iso;*.isz;*.mds;*.nrg)|*.ccd;*.cue;*.iso;*.isz;*.mds;*.nrg|CloneCD Image Files (*.ccd)|*.ccd|Cue Sheet Files of APE/FLAC/M4A/TTA/WAV/WV/BIN (*.cue)|*.cue|Standard ISO Image Files (*.iso)|*.iso|Compressed ISO Image Files (*.isz)|*.isz|Media Descriptor Image Files (*.mds)|*.mds|Nero Image Files (*.nrg)|*.nrg|All Files (*.*)|*.*
+7=Vse datoteke
+8=&Nastavitve...
+9=Možnosti
+10=&Število pogonov
+11=&Odmontiraj vse pogone
+13=&O
+14=I&zhod
+15=&Izvrzi
+16=&Naloži
+17=&Spremeni črko pogona...
+18=&Odpri
+19=&Onemogoči
+20=Medij ni prepoznan ali neveljavne oblike.
+21=Ne morem odprti datoteke:\n%s\n\n%s
+22=Ime
+23=&Domača stran
+24=Vzrok: %s\r\nRazlog: %s
+25=&Podpora
+26=&Preveri za posodobitve
+27=&Ustvari ISO sliko...
+28=&Lastnosti
+29=Izbriši zgodovino neobstoječih datotek
+30=Izbriši vso zgodovino
+31=ID
+32=Pogon
+33=Pot do slike
+34=Datoteka
+35=Orodja
+36=Pomoč
+37=Doniraj
+38=Zmontiraj sliko...
+39=%d pogon, %d zmontiran
+40=Program je brezplačen.\r\n\r\nZ vašo donacijo boste pripomogli k razvoju programa.
+41=Program je registriran %s.\r\n\r\nHvala za donacijo/prispevke.
+42=&Ostani na vrhu
+43=Ustvari
+44=Pogled
+45=Orodna vrstica
+46=Vrstica stanja
+47=Odmontiraj sliko
+48=Kopiraj disk...
+49=Zapeči sliko
+50=Besedilo v orodni vrstici
+51=Kopiraj
+52=Zapiši
+53=Kopiranje %s...
+54=%d%%, Hitrost: %.1f MB/s\nPretečen čas: %s\nPreostali čas: %s
+55=Uspešno zaključen proces!
+56=Na pogonu ni dovolj prostega prostora %C:!
+57=Datoteka [%s] že obstaja. Ali želite zamenjati obstoječo datoteko?
+58=Ni diska
+59=Odpri &ImgDrive
+60=Brisanje diska
+61=Formatiranje diska
+62=Zapisovanje
+63=Sinhronizacija predpomnilnika
+64=Dokončano
+65=Osveži
+66=LBA
+67=Velikost
+68=Velikost (Bytov)
+69=Datum spremembe
+70=Raziskovalec
+71=Pregledovalnik sektorja
+72=I&zvleci datoteko
+73=Session %d
+74=Track %d
+75=Seja
+76=Sled
+77=ISO Image Files (*.iso)|*.iso
+78=Registracija...
+79=Hvala za registracijo!
+80=Registracijski ključ, ki ste ga vnesli, ni pravilen.
+81=Montiraj mapo...
